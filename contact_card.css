@@ -1,0 +1,62 @@
+/*css goes here*/
+#personal_information{
+	display: inline-block;
+}
+#contact_card{
+	display: inline-block;
+	vertical-align: top;
+}
+#first_name_form{
+	width: 280px;
+	margin-bottom: 20px;
+}
+#first_name{
+	margin-left: 10px;
+}
+#last_name_form{
+	width: 280px;
+	margin-bottom: 30px;
+}
+#last_name{
+	margin-left: 12px;
+}
+#description_form{
+	width: 280px;
+}
+#description{
+	margin-top: 10px;
+	width: 255px;
+	height: 100px;
+	resize: none;
+	margin-bottom: 10px;
+}
+#card_front{
+	border: 1px solid black;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 300px;
+	height: 115px;
+	text-align: center;
+	overflow-wrap: break-word;
+	margin-left: 80px;
+}
+h1{
+	margin-bottom: 20px;
+}
+#card_back{
+	border: 1px solid black;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 300px;
+	height: 115px;
+	text-align: left;
+	overflow-wrap: break-word;
+	margin-left: 80px;
+	padding-left: 5px;
+}
+h4{
+	margin-bottom: 20px;
+}
+.flip_back{
+	text-align: center;
+}
